@@ -5,6 +5,9 @@
 | --------------- | --------------- |
 | | |
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:Python-8A2BE2">
+
+
 - 🔭 I’m currently working on **Tourist Attraction Map**
 
 - 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, asnd ArcGIS Instant Apps.**
