@@ -14,6 +14,7 @@
 <img alt="Static Badge" src="https://img.shields.io/npm/v/">
 
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+<img alt="Static Badge" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C">
 
 - 🔭 I’m currently working on **Tourist Attraction Map**
 
