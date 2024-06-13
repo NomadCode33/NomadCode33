@@ -1,4 +1,4 @@
-![Header]([/Users/joshuaemeche/Downloads/github-header-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsbattles.fandom.com%2Fwiki%2FSonic_the_Hedgehog_%2528Sonic_X%2529&psig=AOvVaw1FaGBGSvv643ShfBPqK-Uc&ust=1718327013626000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIj_jYyx14YDFQAAAAAdAAAAABAE))
+![Header](/github-header-image.png)
 
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
