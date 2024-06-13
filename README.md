@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chukwe22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nh00fkR20IhKBUCbCQNgMqb8XHpq-w2_/edit?usp=sharing&ouid=114192167682759385051&rtpof=true&sd=true](https://docs.google.com/document/d/1nh00fkR20IhKBUCbCQNgMqb8XHpq-w2_/edit?usp=sharing&ouid=114192167682759385051&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing)
 
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 
