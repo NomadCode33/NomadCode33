@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chukwuemeka Emeche</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
 - 🔭 I’m currently working on **Tourist Attraction Map**
