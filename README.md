@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tourist Attraction Map**
 
-- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Analyst, ArcGIS StoryMaps, ArcGIS Survey123.**
+- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, asnd ArcGIS Instant Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/Projects/tree/main](https://github.com/T3ch12et/Projects/tree/main)
 
