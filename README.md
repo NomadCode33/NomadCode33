@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/Projects/tree/main](https://github.com/T3ch12et/Projects/tree/main)
 
-- 📝 I regularly write articles on [bjbjbj](bjbjbj)
-
-- 💬 Ask me about **bjbjj**
-
 - 📫 How to reach me **chukwe22@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nh00fkR20IhKBUCbCQNgMqb8XHpq-w2_/edit?usp=sharing&ouid=114192167682759385051&rtpof=true&sd=true](https://docs.google.com/document/d/1nh00fkR20IhKBUCbCQNgMqb8XHpq-w2_/edit?usp=sharing&ouid=114192167682759385051&rtpof=true&sd=true)
