@@ -9,6 +9,9 @@
 
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/https://www.esriuk.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png-Python"></a>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+
 - 🔭 I’m currently working on **Tourist Attraction Map**
 
 - 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, asnd ArcGIS Instant Apps.**
