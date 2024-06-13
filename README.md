@@ -1,6 +1,13 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 ***________________________***
+***
+--------------
+---
+___
+
+________
+
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS-000000?style=flat&logo=ArcGIS"></a>
 
 - 🔭 I’m currently working on **Tourist Attraction Map**
