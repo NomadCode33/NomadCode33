@@ -10,6 +10,9 @@
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/https://www.esriuk.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png-Python"></a>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+<img alt="Static Badge" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+<img alt="Static Badge" src="https://img.shields.io/v/npm.svg?logo=nodedotjs">
+
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 - 🔭 I’m currently working on **Tourist Attraction Map**
