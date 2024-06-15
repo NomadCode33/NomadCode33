@@ -22,9 +22,9 @@ ___
 
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
-| <img src="./Oso Mudslide_gif copy.gif" /> dsdsdsdsf| Placeholder |
+| <img src="./Oso Mudslide_gif copy.gif" />| Placeholder |
 
-<center>
+</center>
 
 ___
 <h3 align="center">Technologies</h3>
