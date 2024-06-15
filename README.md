@@ -21,8 +21,7 @@ ___
 
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
-| <img src="./Oso Mudslide_gif copy.gif" /> 
-dsdsdsdsfs| Placeholder |
+| <img src="./Oso Mudslide_gif copy.gif" /> dsdsdsdsf| Placeholder |
 
 
 ___
