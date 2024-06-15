@@ -2,9 +2,9 @@
 # 
 <p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> <a href="https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a></p>
 
-________________________
-<h3 align="left"> A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</h3>
 
+<h3 align="left"> A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</h3>
+#
 - 🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
 - 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, and ArcGIS Instant Apps.**
@@ -13,9 +13,9 @@ ________________________
 
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 
-___
-<h3 align="center">Projects</h3>
 
+<h3 align="center">Projects</h3>
+#
 <div align="center">
   
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
