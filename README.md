@@ -24,5 +24,5 @@ ___
 
 _____________________
 <h3 align="center">Contact</h3>
-<p align="center"> <strong><a href="chukwe22@gmail.com">chukwe22@gmail.com</a><strong> <strong>chukwe22@gmail.com</strong>         <strong>-<strong>       <strong>(206)476-7818</strong></p>
+<p align="center"> <strong><a href="chukwe22@gmail.com">chukwe22@gmail.com</a><strong>         <strong>-<strong>       <strong>(206)476-7818</strong></p>
 
