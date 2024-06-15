@@ -21,6 +21,9 @@ ___
 | :------------: | :------------: |
 | Placeholder | <img src="./Athens Heat Risk Index_EmekaEmeche - Google Chrome 2024-06-13 21-17-55.gif" width="320" height="240" /> |
 
+<img src="./Athens Heat Risk Index_EmekaEmeche - Google Chrome 2024-06-13 21-16-58.gif" />
+
+
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
 | <img src="./Oso Mudslide_gif320x240.gif" /> <br>III am okay<br> Link to repo | Placeholder | 
