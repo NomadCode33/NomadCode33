@@ -14,7 +14,8 @@ ________________________
 
 ___
 <h3 align="center">Projects</h3>
-<p align="center"> 
+<center> 
+  
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
 | ------------ | ------------ |
 | Placeholder | <img src="./Athens Heat Risk Index_EmekaEmeche - Google Chrome 2024-06-13 21-17-55.gif" /> |
@@ -22,7 +23,8 @@ ___
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
 | <img src="./Oso Mudslide_gif copy.gif" /> dsdsdsdsf| Placeholder |
-</p>
+
+<center>
 
 ___
 <h3 align="center">Technologies</h3>
