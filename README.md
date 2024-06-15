@@ -19,11 +19,11 @@ ___
   
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
 | :------------: | :------------: |
-| Placeholder | <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240" /> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a></p> <br> Link to repo|
+| Placeholder | <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a>|
 
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
-| <img src="./GIFs/Oso Mudslide_gif320x240.gif" /> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a></p><br> Link to repo | Placeholder | 
+| <img src="./GIFs/Oso Mudslide_gif320x240.gif"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a></p><br> Link to repo | Placeholder | 
 
 </div>
 
