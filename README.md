@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)
-<p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> <a href="https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a></p>
 ________________________
+
 <h3 align="center">About Me</h3>
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
@@ -9,8 +10,6 @@ ________________________
 - 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, and ArcGIS Instant Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/Projects/tree/main](https://github.com/T3ch12et/Projects/tree/main)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing)
 
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 ___
