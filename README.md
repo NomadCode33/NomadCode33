@@ -23,7 +23,7 @@ ___
 
 | Oso Mudslide | Hurricane Projection |
 | :------------: | :------------: |
-| <img src="./GIFs/Oso Mudslide_gif320x240.gif"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A 3D animation that shows the destruction of the Oso mudslide in Oso, WA. </p> | <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A map showing the projections of hurricane since 1851. </p> | 
+| <img src="./GIFs/Oso Mudslide_gif320x240.gif"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A 3D animation that shows the destruction of the mudslide at Steelhead Haven in Oso, WA. </p> | <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A map showing the projections of hurricane globally since 1851. </p> | 
 
 </div>
 
