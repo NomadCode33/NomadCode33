@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a>                       </p>
+<p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> </p>
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
 ________
