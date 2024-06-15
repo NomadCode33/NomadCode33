@@ -21,6 +21,8 @@ ___
 | :------------: | :------------: |
 | <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left">Link to repo</p> | <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left">Link to repo</p>|
 
+| | |
+
 | Oso Mudslide | Hurricane Projection |
 | :------------: | :------------: |
 | <img src="./GIFs/Oso Mudslide_gif320x240.gif"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left">Link to repo</p> | <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240"/> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left">Link to repo</p> | 
