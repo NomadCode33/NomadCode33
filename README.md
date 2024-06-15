@@ -3,13 +3,11 @@
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
 ________________________
-- 🔭 I’m currently working on **Tourist Attraction Map**
+- 🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
-- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, asnd ArcGIS Instant Apps.**
+- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, and ArcGIS Instant Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/Projects/tree/main](https://github.com/T3ch12et/Projects/tree/main)
-
-- 📫 How to reach me **chukwe22@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing)
 
