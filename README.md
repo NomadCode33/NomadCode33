@@ -26,7 +26,7 @@ ___
 
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
-| <img src="./Oso Mudslide_gif320x240.gif" /> <br>III am okay<br> Link to repo | Placeholder | 
+| <img src="./Oso Mudslide_gif320x240.gif" /> <br><p align="center"><a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a></p><br> Link to repo | Placeholder | 
 
 </div>
 
