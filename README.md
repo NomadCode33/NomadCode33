@@ -26,6 +26,8 @@ ___
 </table>
 
 </div>
+
+<div align="center">
   
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
 | :------------: | :------------: |
@@ -37,6 +39,7 @@ ___
  Placeholder | 
 dddd |
 
+</div>
 
 ___
 <h3 align="center">Technologies</h3>
