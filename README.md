@@ -2,14 +2,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> </p>
 <h3 align="center">A creative, detail-oriented, GIS data scientist with a deep interest in spatial data science. Proven track record in data wrangling, statistical analysis, data visualization, and logical reasoning. Seeking to apply my skills to a tech company with global reach.</h3>
 
-________
-_______________________________________
-
-******************************
-
-
-------------------------
-
+________________________
 - 🔭 I’m currently working on **Tourist Attraction Map**
 
 - 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, asnd ArcGIS Instant Apps.**
@@ -27,6 +20,8 @@ ___
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> 
+_______
+<h3 align="center">Contact:</h3>
+<p align="center"> <strong>chukwe22@gmail.com</strong>* <strong>(206)476-7818</strong>  </p>
 
-<a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="css3" width="40" height="40"/> </a> <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTL4bQwGwP-kkCvkt_HoeGOvlcnKmfRnIyEw&s" alt="css3" width="40" height="40"/> </a> <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://civilsurveysolutions.com.au/wp-content/uploads/autodesk-civil-3d-product-icon-social-400-1-150x150.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/256px-QGIS_logo_minimal.svg.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/9/673/png-transparent-microsoft-office-logo-png-thumbnail.png" alt="css3" width="40" height="40"/> </a>   
