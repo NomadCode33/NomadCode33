@@ -21,7 +21,7 @@ ___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> 
-_______
+_____________________
 
 <h3 align="center">Contact:</h3>
 <p align="center"> <strong>chukwe22@gmail.com</strong>         *       <strong>(206)476-7818</strong></p>
