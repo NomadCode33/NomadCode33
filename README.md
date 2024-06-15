@@ -18,7 +18,9 @@ ___
 <div align="center">
 
 <table>
-  dfgdgdd
+  | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
+| :------------: | :------------: |
+| Placeholder | <img src="./Athens Heat Risk Index_EmekaEmeche - Google Chrome 2024-06-13 21-17-55.gif" /> |
 </table>
 
 </div>
