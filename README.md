@@ -25,6 +25,7 @@ ___
 | <img src="./Oso Mudslide_gif copy.gif" />
 | Placeholder |
 
+
 <style>
     .heatMap {
         width: 70%;
