@@ -19,7 +19,7 @@ ___
   
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
 | :------------: | :------------: |
-| Placeholder | <img src="./GIFs/GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" /> |
+| Placeholder | <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" /> |
 
 | Oso Mudslide | Placeholder |
 | ------------ | ------------ |
