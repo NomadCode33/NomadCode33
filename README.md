@@ -6,7 +6,7 @@ ___
 
 - 🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
-- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, and ArcGIS Instant Apps.**
+- 🌱 I’m currently learning **ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/Projects/tree/main](https://github.com/T3ch12et/Projects/tree/main)
 
