@@ -16,7 +16,7 @@ ___
 <h3 align="center">Projects</h3>
 
 
-<p style = "text-align": center>
+<p style = "text-align: center;">
   
 ### Projects
 
