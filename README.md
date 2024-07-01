@@ -15,7 +15,18 @@ ___
 ___
 <h3 align="center">Projects</h3>
 
-### Example text {style=text-align:center}
+### Example text (style=text-align:center)
+
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+## Excerpts from Romeo and Juliet (arr. V. Borisovsky)
+### Sergei Prokofiev
+#### Timothy Ridout, viola ∙ Frank Dupree, piano
+
+</div>
+Share
+
+
 
 <h2 style="text-align: right;">Test</h2>
 
