@@ -13,10 +13,10 @@ ___
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 
 ___
-<h3 align="center">Projects</h3>
 
 
-<h2 style="text-align: center;">Test</h2>
+
+<h2 style="text-align: right;">Test</h2>
 
 <div align="center">
   
