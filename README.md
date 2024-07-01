@@ -16,11 +16,11 @@ ___
 <h3 align="center">Projects</h3>
 
 
-<center>
+<p style = "text-align": center>
   
 ### Projects
 
-</center>
+</p>
 
 <div align="center">
   
