@@ -15,6 +15,12 @@ ___
 ___
 <h3 align="center">Projects</h3>
 
+
+<center>
+### Projects
+
+</center>
+
 <div align="center">
   
 | City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
