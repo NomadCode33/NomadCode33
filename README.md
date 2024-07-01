@@ -16,8 +16,7 @@ ___
 <h3 align="center">Projects</h3>
 
 
-<h1 align="text-align: center;">Test</h1>
-Some content
+<h3 align="text-align: center;">Test</h3>
 
 <div align="center">
   
