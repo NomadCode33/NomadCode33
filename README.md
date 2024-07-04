@@ -11,6 +11,7 @@ ___
 - 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main)
 
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
+___
 
 <h2 align="center">Projects</h2>
 
