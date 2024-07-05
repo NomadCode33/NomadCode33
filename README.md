@@ -15,17 +15,86 @@ ___
 
 <h2 align="center">Projects</h2>
 
-<div align="center">
+<table bordercolor="#66b2b2">
   
-| City of Miami Beach Sea Level Rise | Athens Heat Risk Index |
-| :------------: | :------------: |
-| <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/> <br><p align="center"><a href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension** - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050. </p> | <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240"/> <br><p align="center"><a href="https://github.com/T3ch12et/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension** - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience. </p> |
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelara.org</h3>
+        <br />
+        <a target="_blank" href="https://shawncharles.com/travelara">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="\https://shawncharles.com/travelara" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ShawnCharles.com</h3>
+      <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
 
-| Oso Mudslide | Hurricanes since 1851 |
-| :------------: | :------------: |
-| <img src="./GIFs/Oso Mudslide_gif320x240.gif"/> <br><p align="center"><a href="https://github.com/T3ch12et/Oso-Mudslide" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath. </p> | <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240"/> <br><p align="center"><a href="https://github.com/T3ch12et/Hurricanes-since-1851" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a></p> <p align="left"> **ArcGIS Pro** - A detailed map showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns. </p> | 
-
-</div>
 <br>
 <h2 align="center">Skills/Technologies</h2>
 <p align="center"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS-000000?style=flat&logo=ArcGIS"></a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> <a href="https://livingatlas.arcgis.com/en/home/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Living Atlas-43A047?style=flat&logo=ArcGIS"></a> <a href="https://storymaps.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS StoryMaps-64c4b7?style=flat&logo=ArcGIS"></a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Network Analyst-0e9b6b?style=flat&logo=ArcGIS"></a> <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Survey123-759c33?style=flat&logo=ArcGIS"></a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Dashboards-e89204?style=flat&logo=ArcGIS"></a> <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>  <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=RStudio IDE"></a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a> <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=Visual Studio Code"></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a> <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> <a href="https://geospatial.trimble.com/en/products/hardware/total-stations" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Trimble S/VX Total Stations-000000?style=flat&logo="></a>  <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
