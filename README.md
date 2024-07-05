@@ -68,20 +68,17 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">Hurricanes since 1851</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240" alt="Hurricane Projection picture/>
+        <a target="_blank" href="https://github.com/T3ch12et/Hurricanes-since-1851">
+          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://github.com/T3ch12et/Hurricanes-since-1851" target="_blank" rel="noreferrer">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>ArcGIS Pro</strong> - A detailed map showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns.</p>
     </td>
   </tr>
 </table>
