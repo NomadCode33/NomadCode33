@@ -36,14 +36,14 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
+            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/T3ch12et/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
