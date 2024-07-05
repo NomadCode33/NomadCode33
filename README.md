@@ -31,7 +31,7 @@ ___
     <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
         </p>
-        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
+        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
