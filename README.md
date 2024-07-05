@@ -32,7 +32,7 @@ ___
         <br />
         <center>
         <a target="_blank" href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main">
-            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240" alt="Miami Beach Sea Level GIF"/>
+            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="450" height="240" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
@@ -48,7 +48,7 @@ ___
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
       <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
-            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240" alt="Athens Heat Risk GIF"/>
+            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="450" height="240" alt="Athens Heat Risk GIF"/>
         </a>
         <br />
         <p align="center">
@@ -66,7 +66,7 @@ ___
       <h3 align="center">Oso Mudslide</h3>
       <br />
         <a target="_blank" href="https://github.com/T3ch12et/Oso-Mudslide">
-          <img src="./GIFs/Oso Mudslide_gif320x240.gif" alt="Oso Mudlside GIF"/>
+          <img src="./GIFs/Oso Mudslide_gif320x240.gif" width="450" height="240" alt="Oso Mudlside GIF"/>
         </a>
       <br />
         <p align="center">
@@ -80,7 +80,7 @@ ___
       <h3 align="center">Hurricanes since 1851</h3>
         <br />
         <a target="_blank" href="https://github.com/T3ch12et/Hurricanes-since-1851">
-          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240" alt="Hurricane Projection picture">
+          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="450" height="240" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
