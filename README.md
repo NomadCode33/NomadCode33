@@ -2,7 +2,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> <a href="https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None"> <a href="https://drive.google.com/file/d/1eNtUKKSlh9aHBXYh35pUsTAksyxDMzBO/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a></p>
 
 ___ 
-<h3 align="left"> A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</h3>
+<p align="left"> <strong>A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</strong></p>
 
 - 🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
@@ -90,7 +90,6 @@ ___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> 
-<br>
 
 ___
 <h2 align="center">Connect</h2>
