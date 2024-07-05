@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> 
   <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
-  <a href="https://drive.google.com/file/d/1gWm0r34WvnxUjNrHAHgyEEdqFhCrK4uf/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
+  <a href="" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None"> <a href="https://drive.google.com/file/d/1eNtUKKSlh9aHBXYh35pUsTAksyxDMzBO/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a></p>
 
 ___ 
