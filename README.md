@@ -27,7 +27,7 @@ ___
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
         <center>
