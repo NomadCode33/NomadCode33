@@ -21,9 +21,7 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
             <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/>
-        </a>
         <br />
         <p align="center">
           
@@ -34,7 +32,7 @@ ___
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Athens Heat Risk Index</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
