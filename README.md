@@ -27,8 +27,8 @@ ___
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
