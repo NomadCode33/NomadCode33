@@ -80,7 +80,7 @@ ___
       <h3 align="center">Hurricanes since 1851</h3>
         <br />
         <a target="_blank" href="https://github.com/T3ch12et/Hurricanes-since-1851">
-          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="100%" alt="Hurricane Projection picture">
+          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
