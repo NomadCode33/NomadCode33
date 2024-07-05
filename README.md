@@ -66,10 +66,10 @@ ___
         <p><strong>ArcGIS Pro</strong> - A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Hurricanes since 1851</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="320" height="240" alt="Hurricane Projection picture/>
         </a>
         <br />
         <p align="center">
