@@ -27,7 +27,7 @@ ___
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="400" valign="top">
+    <td width="600" valign="top">
       <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
         <center>
@@ -44,7 +44,7 @@ ___
         </p>
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
     </td>
-    <td width="400" valign="top">
+    <td width="600" valign="top">
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
       <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
@@ -62,7 +62,7 @@ ___
   </tr>
   
   <tr>
-    <td width="400" valign="top">
+    <td width="600" valign="top">
       <h3 align="center">Oso Mudslide</h3>
       <br />
         <a target="_blank" href="https://github.com/T3ch12et/Oso-Mudslide">
@@ -76,7 +76,7 @@ ___
       </p>
         <p><strong>ArcGIS Pro</strong> - A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath.</p>
     </td>
-    <td width="400" valign="top">
+    <td width="600" valign="top">
       <h3 align="center">Hurricanes since 1851</h3>
         <br />
         <a target="_blank" href="https://github.com/T3ch12et/Hurricanes-since-1851">
