@@ -48,7 +48,7 @@ ___
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
       <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
-            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="100%" alt="Athens Heat Risk GIF"/>
+            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="100%" height="269" alt="Athens Heat Risk GIF"/>
         </a>
         <br />
         <p align="center">
