@@ -32,7 +32,7 @@ ___
         <br />
         <center>
         <a target="_blank" href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main">
-            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="470" height="240" alt="Miami Beach Sea Level GIF"/>
+            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="480" height="240" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
