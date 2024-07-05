@@ -22,7 +22,7 @@ ___
       <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
         <a target="_blank" href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main">
-            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/>
+            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240" alt="Miami Beach Sea Level GIF"/>
         </a>
         <br />
         <p align="center">
@@ -37,7 +37,7 @@ ___
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
       <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
-            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240"/>
+            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="320" height="240" alt="Athens Heat Risk GIF"/>
         </a>
         <br />
         <p align="center">
@@ -46,16 +46,16 @@ ___
     <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
-        <p><strong>JArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience.</p>
+        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Oso Mudslide</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="./GIFs/Oso Mudslide_gif320x240.gif" alt="Oso Mudlside GIF"/>
         </a>
       <br />
         <p align="center">
