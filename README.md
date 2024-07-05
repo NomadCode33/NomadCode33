@@ -45,11 +45,8 @@ ___
   <a href="https://github.com/T3ch12et/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>JArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience.</p>
     </td>
   </tr>
   
