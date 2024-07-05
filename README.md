@@ -19,10 +19,10 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/>
         </a>
         <br />
         <p align="center">
