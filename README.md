@@ -5,7 +5,7 @@
   <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
-  <a href="https://drive.google.com/file/d/1eNtUKKSlh9aHBXYh35pUsTAksyxDMzBO/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
+  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
 ___ 
@@ -141,7 +141,7 @@ ___
   <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
-  <a href="https://drive.google.com/file/d/1eNtUKKSlh9aHBXYh35pUsTAksyxDMzBO/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
+  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
 
