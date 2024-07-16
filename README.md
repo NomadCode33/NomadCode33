@@ -116,7 +116,8 @@ ___
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5"></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a> 
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a> 
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
+  <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-GeoJSON-000000?style=flat&logo=JSON"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a> 
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> 
