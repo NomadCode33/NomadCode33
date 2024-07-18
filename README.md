@@ -130,8 +130,7 @@ ___
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> <br>
-  <img alt="T3ch12et's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=T3ch12et&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&exclude_repo=github-readme-stats,convoychat" /> <br>
+  <img alt="T3ch12et's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=T3ch12et&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 </div> 
 <br>
 
