@@ -107,10 +107,10 @@ ___
   <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Arcade Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Autodesk Civil 3D Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
-  <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=RStudio IDE"></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
+  <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-rstudioide-000000?style=flat&logo=RStudio IDE"></a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5"></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3"></a> 
