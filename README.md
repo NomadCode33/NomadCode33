@@ -120,7 +120,7 @@ ___
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a> 
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Microsoft Office Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=Visual Studio Code"></a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?></a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a> 
   <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
