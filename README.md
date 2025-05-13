@@ -120,12 +120,12 @@ ___
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a> 
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Microsoft Office Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=LinkedIn"></a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a> 
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
-  <a href="https://geospatial.trimble.com/en/products/hardware/total-stations" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Trimble S/VX Total Stations-000000?style=flat&logo="></a> 
-  <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=LinkedIn"></a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a> 
+  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Git Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
+  <a href="https://geospatial.trimble.com/en/products/hardware/total-stations" target="_blank" rel="noreferrer"> <img alt="Trimble S/VX Total Stations Badge" src="https://img.shields.io/badge/-Trimble S/VX Total Stations-000000?style=flat&logo="></a> 
+  <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Leica P50 LiDAR Scanner Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> <br>
