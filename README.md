@@ -111,9 +111,9 @@ ___
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=rstudioide"></a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5"></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3"></a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Tableau Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img alt="HTML5 Badge" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS3 Badge" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-GeoJSON-000000?style=flat&logo=JSON"></a>
