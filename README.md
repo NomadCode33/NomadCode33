@@ -1,8 +1,7 @@
 ![Header](./github-header-image.png)
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
-  <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> 
-  <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
+  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
+  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
   <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
@@ -138,8 +137,7 @@ ___
 <h2 align="center">Connect</h2>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
-  <a href="https://www.facebook.com/emeka.emeche/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Facebook-000000?style=flat&logo=Facebook"></a> 
-  <a href="https://twitter.com/echukwe1547" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
+  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Static Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
   <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
