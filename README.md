@@ -96,7 +96,7 @@ ___
 <br>
 <h2 align="center">Skills/Technologies</h2>
 <p align="center"> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer" alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> 
   <a href="https://livingatlas.arcgis.com/en/home/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Living Atlas-43A047?style=flat&logo=ArcGIS"></a> 
