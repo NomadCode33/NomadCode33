@@ -103,10 +103,10 @@ ___
   <a href="https://storymaps.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Storymaps Badge" src="https://img.shields.io/badge/-ArcGIS StoryMaps-64c4b7?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Network Analyst Badge" src="https://img.shields.io/badge/-ArcGIS Network Analyst-0e9b6b?style=flat&logo=ArcGIS"></a> 
   <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Survey123 Badge" src="https://img.shields.io/badge/-ArcGIS Survey123-759c33?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Dashboards-e89204?style=flat&logo=ArcGIS"></a> 
-  <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
-  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Dashboards Badge" src="https://img.shields.io/badge/-ArcGIS Dashboards-e89204?style=flat&logo=ArcGIS"></a> 
+  <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Arcade Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Autodesk Civil 3D Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
+  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
