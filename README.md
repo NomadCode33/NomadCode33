@@ -1,10 +1,10 @@
 ![Header](./github-header-image.png)
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
-  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
-  <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
-  <img alt="Phone Number" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
-  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
+  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
+  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
+  <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
+  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
+  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
 ___ 
@@ -38,7 +38,7 @@ ___
         <p align="center">
           
   <a href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
         </p>
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
@@ -53,7 +53,7 @@ ___
         <p align="center">
           
   <a href="https://github.com/T3ch12et/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience.</p>
@@ -70,7 +70,7 @@ ___
       <br />
         <p align="center">
   <a href="https://github.com/T3ch12et/Oso-Mudslide" target="_blank" rel="noreferrer">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
         <p><strong>ArcGIS Pro</strong> - A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath.</p>
@@ -85,7 +85,7 @@ ___
         <p align="center">
           
   <a href="https://github.com/T3ch12et/Hurricanes-since-1851" target="_blank" rel="noreferrer">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
         <p><strong>ArcGIS Pro</strong> - A detailed map showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns.</p>
@@ -136,11 +136,11 @@ ___
 
 <h2 align="center">Connect</h2>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
-  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
-  <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
-  <img alt="Phone Number" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
-  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
+  <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
+  <a href="https://x.com/EmekaEmeche33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
+  <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
+  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
+  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
 
