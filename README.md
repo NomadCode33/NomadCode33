@@ -13,13 +13,15 @@ ___
   <strong>A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</strong>
 </p>
 
-- 🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
+🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
-- 🌱 I’m currently learning **ArcGIS Arcade, ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
+🌱 I’m currently learning **ArcGIS Arcade, ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main)
+👨‍💻 All of my projects are available at
+- Geography Information Systems: [GIS/Data Science Portfolio](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main)
+- Software Engineering: [Software Engineering Portfolio](https://github.com/NomadCode33/Software-Engineering-Portfolio)
 
-- ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
+⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 ___
 
 <h2 align="center">Projects</h2>
