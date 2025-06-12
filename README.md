@@ -17,7 +17,7 @@ ___
 
 - 🌱 I’m currently learning **ArcGIS Arcade, ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main)
+- 👨‍💻 All of my projects are available at [https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main)
 
 - ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 ___
@@ -31,14 +31,14 @@ ___
       <h3 align="center">City of Miami Beach Sea Level Rise</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main">
+        <a target="_blank" href="https://github.com/NomadCode33/3D-Miami-Beach-Sea-Level-Rise/tree/main">
             <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
         <p align="center">
           
-  <a href="https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
         </p>
@@ -47,13 +47,13 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">Athens Heat Risk Index</h3>
         <br />
-      <a target="_blank" href="https://github.com/T3ch12et/Athens-Heat-Risk-Index">
+      <a target="_blank" href="https://github.com/NomadCode33/Athens-Heat-Risk-Index">
             <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="100%" height="269" alt="Athens Heat Risk GIF"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/T3ch12et/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
@@ -65,12 +65,12 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">Oso Mudslide</h3>
       <br />
-        <a target="_blank" href="https://github.com/T3ch12et/Oso-Mudslide">
+        <a target="_blank" href="https://github.com/NomadCode33/Oso-Mudslide">
           <img src="./GIFs/Oso Mudslide_gif320x240.gif" width="100%" height="269" alt="Oso Mudlside GIF"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/T3ch12et/Oso-Mudslide" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/Oso-Mudslide" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
@@ -79,13 +79,13 @@ ___
     <td width="50%" valign="top">
       <h3 align="center">Hurricanes since 1851</h3>
         <br />
-        <a target="_blank" href="https://github.com/T3ch12et/Hurricanes-since-1851">
+        <a target="_blank" href="https://github.com/NomadCode33/Hurricanes-since-1851">
           <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/T3ch12et/Hurricanes-since-1851" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/Hurricanes-since-1851" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
@@ -129,7 +129,7 @@ ___
   <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Leica P50 LiDAR Scanner Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3ch12et&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NomadCode33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> <br>
 </div> 
 <br>
 
