@@ -130,7 +130,7 @@ ___
   <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Leica P50 LiDAR Scanner Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
 
 <div align="center">
-  ![Emeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=NomadCode33&theme=darke&show_icons=true)
+  ![Emeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=NomadCode33&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NomadCode33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> <br>
 </div> 
 <br>
