@@ -17,8 +17,8 @@ ___
 🌱 I’m currently learning **ArcGIS Arcade, ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
 
 👨‍💻 All of my projects are available at:
-- **Geography Information Systems:** [GIS/Data Science Portfolio](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main)
-- **Software Engineering:** [Software Engineering Portfolio](https://github.com/NomadCode33/Software-Engineering-Portfolio)
+- **GIS Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
+- **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
 
 ⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
 ___
