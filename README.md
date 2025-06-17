@@ -46,15 +46,15 @@ ___
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Athens Heat Risk Index</h3>
+      <h3 align="center">ThermaRisk</h3>
         <br />
-      <a target="_blank" href="https://github.com/NomadCode33/Athens-Heat-Risk-Index">
+      <a target="_blank" href="https://github.com/NomadCode33/ThermaRisk">
             <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="100%" height="269" alt="Athens Heat Risk GIF"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/NomadCode33/Athens-Heat-Risk-Index" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/ThermaRisk" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
