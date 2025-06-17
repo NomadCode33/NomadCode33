@@ -64,14 +64,14 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Oso Mudslide</h3>
+      <h3 align="center">OsoShift</h3>
       <br />
-        <a target="_blank" href="https://github.com/NomadCode33/Oso-Mudslide">
+        <a target="_blank" href="https://github.com/NomadCode33/OsoShift">
           <img src="./GIFs/Oso Mudslide_gif320x240.gif" width="100%" height="269" alt="Oso Mudlside GIF"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/Oso-Mudslide" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/OsoShift" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
