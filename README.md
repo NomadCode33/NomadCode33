@@ -90,7 +90,7 @@ ___
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
-        <p><strong>ArcGIS Pro</strong> - A detailed map showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns.</p>
+        <p><strong>ArcGIS Pro</strong> - A detailed map projection showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns to analyze trends.</p>
     </td>
   </tr>
 </table>
