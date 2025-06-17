@@ -29,7 +29,7 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SeaRise3D: Miami</h3>
+      <h3 align="center">SeaRise3D</h3>
         <br />
         <center>
         <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
