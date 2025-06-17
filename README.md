@@ -58,7 +58,7 @@ ___
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
-        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to aid in implementing preventative measures for cooling the city and enhancing its resilience.</p>
+        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map illustrating the intensity of heat across various areas in Athens, Greece. Designed to support urban planners and policymakers in implementing targeted cooling strategies, such as prioritizing areas for tree planting, to enhance the city’s resilience to extreme heat events.</p>
     </td>
   </tr>
   
