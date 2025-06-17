@@ -29,17 +29,17 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">City of Miami Beach Sea Level Rise</h3>
+      <h3 align="center">SeaRise3D: Miami</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/3D-Miami-Beach-Sea-Level-Rise/tree/main">
+        <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
             <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
         <p align="center">
           
-  <a href="https://github.com/NomadCode33/3D-Miami-Beach-Sea-Level-Rise/tree/main" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/SeaRise3D-Miami" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
         </p>
