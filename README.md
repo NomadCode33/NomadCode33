@@ -78,15 +78,15 @@ ___
         <p><strong>ArcGIS Pro</strong> - A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hurricanes since 1851</h3>
+      <h3 align="center">StormChronicles</h3>
         <br />
-        <a target="_blank" href="https://github.com/NomadCode33/Hurricanes-since-1851">
+        <a target="_blank" href="https://github.com/NomadCode33/StormChronicles">
           <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/NomadCode33/Hurricanes-since-1851" target="_blank" rel="noreferrer">
+  <a href="https://github.com/NomadCode33/StormChronicles" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
