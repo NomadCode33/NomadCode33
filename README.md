@@ -75,7 +75,7 @@ ___
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>
       </p>
-        <p><strong>ArcGIS Pro</strong> - A compelling 3D animation simulating the catastrophic mudslide at Steelhead Haven near Oso, WA, using terrain data, imagery, and timelines to illustrate its progression, impact, and aftermath—enhancing preparedness and public awareness.</p>
+        <p><strong>ArcGIS Pro</strong> - A compelling 3D animation of the catastrophic Steelhead Haven mudslide near Oso, WA, combining terrain data, imagery, and timelines to illustrate its progression, infrastructure impact, and environmental aftermath—enhancing preparedness and awareness.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">StormChronicles</h3>
