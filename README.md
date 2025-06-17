@@ -12,7 +12,7 @@ ___
   <strong>A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</strong>
 </p>
 
-🔭 I’m currently working on **Tourist Attraction Maps** at Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
+🔭 I’m currently working on **Tourist Attraction Maps** for Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
 🌱 I’m currently learning **ArcGIS Arcade, ArcGIS Dashboards, ArcGIS Network Analyst, ArcGIS StoryMaps, ArcGIS Survey123, ArcGIS Living Atlas of the World, and ArcGIS Instant Apps.**
 
