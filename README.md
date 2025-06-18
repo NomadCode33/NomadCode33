@@ -20,7 +20,7 @@ ___
 - **GIS Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 - **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
 
-⚡ Fun fact **I have drive to learn things I don't know about and I love watching anime.**
+⚡ Fun fact **I have endless drive, I love learning, I have a stubborn attitude to never give up, and I love watching anime.**
 ___
 
 <h2 align="center">Projects</h2>
