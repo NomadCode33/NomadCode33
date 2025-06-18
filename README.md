@@ -9,7 +9,7 @@
 
 ___ 
 <p align="left"> 
-  <strong>A creative and detail-oriented GIS data scientist with a strong passion for spatial data science. Demonstrated expertise in data wrangling, statistical analysis, data visualization, and logical reasoning. Eager to leverage my skills in a dynamic tech company with a global presence.</strong>
+  <strong>A creative and detail-oriented Software Engineer and Geospatial Data Scientist with a deep passion for spatial intelligence, machine learning, and AI. I bring proven experience across the full technology stack—from front-end and back-end development to web application design, data wrangling, statistical analysis, and impactful data visualization. Known for strong logical reasoning, problem-solving, and a knack for thinking outside the box, I consistently seek innovative ways to improve systems and deliver meaningful results. I’m excited to contribute to a forward-thinking tech company with a global reach, where I can help drive data-driven innovation and create solutions that make a real-world impact.</strong>
 </p>
 
 🔭 I’m currently working on **Tourist Attraction Maps** for Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
