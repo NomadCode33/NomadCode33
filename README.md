@@ -17,7 +17,7 @@ ___
 🌱 I’m currently learning **APIs.**
 
 👨‍💻 All of my projects are available at:
-- **GIS Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
+- **Geospatial Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 - **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
 
 ⚡ Fun fact **I have endless drive, I love learning, I have a stubborn attitude to never quit, and I love watching anime.**
