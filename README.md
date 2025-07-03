@@ -1,4 +1,4 @@
-
+![Header](./github-header-image-sg.png)
 <p align="center"> 
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
