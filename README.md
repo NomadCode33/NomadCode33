@@ -14,8 +14,6 @@ ___
 
 🔭 I’m currently working on **Tourist Attraction Maps** for Lifestyle Valet in Tacoma, Pierce, and Thurston Counties.
 
-🌱 I’m currently learning **APIs.**
-
 👨‍💻 All of my projects are available at:
 - **Geospatial Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 - **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
