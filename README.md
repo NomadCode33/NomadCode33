@@ -100,9 +100,11 @@ ___
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img alt="HTML5 Badge" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS3 Badge" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node-000000?style=flat&logo=Node.js"></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express Badge" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express"></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js"></a>
-  <a href="" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
@@ -115,7 +117,6 @@ ___
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=None"></a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a>
-
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Online Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="ArcGIS Instant Apps Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> 
