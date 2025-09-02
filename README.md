@@ -1,5 +1,6 @@
 ![Header](./github-header-image-sg.png)
 <p align="center"> 
+  <a href="https://chukwuemekaemeche.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Portfolio Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
@@ -136,7 +137,8 @@ ___
 ___
 
 <h2 align="center">Connect</h2>
-<p align="center"> 
+<p align="center">
+  <a href="https://chukwuemekaemeche.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Portfolio Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a>
