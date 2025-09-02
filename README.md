@@ -31,7 +31,7 @@ ___
         <br />
         <center>
         <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
-            <img src="./" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+            <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
@@ -48,7 +48,7 @@ ___
         <br />
         <center>
         <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
-            <img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+            <img src="./assets/GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
@@ -67,7 +67,7 @@ ___
       <h3 align="center">OsoShift</h3>
       <br />
         <a target="_blank" href="https://github.com/NomadCode33/OsoShift">
-          <img src="./GIFs/Oso Mudslide_gif320x240.gif" width="100%" height="269" alt="Oso Mudlside GIF"/>
+          <img src="./assets/GIFs/Oso Mudslide_gif320x240.gif" width="100%" height="269" alt="Oso Mudlside GIF"/>
         </a>
       <br />
         <p align="center">
@@ -81,7 +81,7 @@ ___
       <h3 align="center">StormChronicles</h3>
         <br />
         <a target="_blank" href="https://github.com/NomadCode33/StormChronicles">
-          <img src="./Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
+          <img src="./assets/img/Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
         </a>
         <br />
         <p align="center">
