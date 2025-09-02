@@ -64,16 +64,16 @@ ___
       <h3 align="center">Level Ground</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
-            <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+        <a target="_blank" href="https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground">
+            <img src="./assets/img/levelgroundwebsite.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
-  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
+  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://levelground-layout-nomadcode33.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Level Ground Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
+        <p><strong>HTML, CSS</strong> - Nonprofit website layout built from a design mockup for Level Ground, using semantic HTML and CSS to highlight mission, impact, and engagement opportunities.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">OsoShift</h3>
