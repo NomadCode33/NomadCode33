@@ -30,7 +30,7 @@ ___
       <h3 align="center">DragonDex</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
+        <a target="_blank" href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex">
             <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
