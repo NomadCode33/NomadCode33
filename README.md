@@ -36,11 +36,12 @@ ___
         </center>
         <br />
         <p align="center">
-  <a href="" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
   <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds..</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">SeaRise3D</h3>
         <br />
