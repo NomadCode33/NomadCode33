@@ -41,7 +41,6 @@ ___
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">SeaRise3D</h3>
         <br />
@@ -63,6 +62,21 @@ ___
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Level Ground</h3>
+        <br />
+        <center>
+        <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
+            <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+        </a>
+        </center>
+        <br />
+        <p align="center">
+  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">OsoShift</h3>
       <br />
         <a target="_blank" href="https://github.com/NomadCode33/OsoShift">
@@ -75,21 +89,6 @@ ___
   </a>
       </p>
         <p><strong>ArcGIS Pro</strong> - A compelling 3D animation of the catastrophic Steelhead Haven mudslide near Oso, WA, combining terrain data, imagery, and timelines to illustrate its progression, infrastructure impact, and environmental aftermath—enhancing preparedness and awareness.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">StormChronicles</h3>
-        <br />
-        <a target="_blank" href="https://github.com/NomadCode33/StormChronicles">
-          <img src="./assets/img/Hurricane_Projection_EmekaEmeche.jpg" width="100%" height="269" alt="Hurricane Projection picture">
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/NomadCode33/StormChronicles" target="_blank" rel="noreferrer">
-    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
-  </a>
-      </p>
-        <p><strong>ArcGIS Pro</strong> - A detailed map projection showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns to analyze trends.</p>
     </td>
   </tr>
 </table>
