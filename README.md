@@ -3,10 +3,10 @@
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:nomadcode33@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-nomadcode33@gmail.com-000000?style=flat&logo=Gmail"></a> 
-  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
+  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">
+  <a href="https://wellfound.com/u/chukwuemeka-emeche" target="_blank" rel="noreferrer"> <img alt="Wellfound Badge" src="https://img.shields.io/badge/-WellFound-000000?style=flat&logo=WordPress"></a>
   <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
-
 ___ 
 <p align="left"> 
   <strong>A creative and detail-oriented Software Engineer and Geospatial Data Scientist with a deep passion for spatial intelligence, machine learning, and AI. I bring proven experience across the full technology stack—from front-end and back-end development to web application design, data wrangling, statistical analysis, and impactful data visualization. Known for strong logical reasoning, problem-solving, and a knack for thinking outside the box, I consistently seek innovative ways to improve systems and deliver meaningful results. I’m excited to contribute to a forward-thinking tech company with a global reach, where I can help drive data-driven innovation and create solutions that make a real-world impact.</strong>
@@ -140,7 +140,8 @@ ___
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a> 
   <a href="mailto:nomadcode33@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-nomadcode33@gmail.com-000000?style=flat&logo=Gmail"></a>
-  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">  
+  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">
+  <a href="https://wellfound.com/u/chukwuemeka-emeche" target="_blank" rel="noreferrer"> <img alt="Wellfound Badge" src="https://img.shields.io/badge/-WellFound-000000?style=flat&logo=WordPress"></a>
   <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
