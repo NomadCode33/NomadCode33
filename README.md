@@ -97,17 +97,7 @@ ___
 <br>
 <h2 align="center">Skills/Technologies</h2>
 <p align="center"> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Online Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="ArcGIS Instant Apps Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> 
-  <a href="https://livingatlas.arcgis.com/en/home/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Living Atlas Badge" src="https://img.shields.io/badge/-ArcGIS Living Atlas-43A047?style=flat&logo=ArcGIS"></a> 
-  <a href="https://storymaps.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Storymaps Badge" src="https://img.shields.io/badge/-ArcGIS StoryMaps-64c4b7?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Network Analyst Badge" src="https://img.shields.io/badge/-ArcGIS Network Analyst-0e9b6b?style=flat&logo=ArcGIS"></a> 
-  <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Survey123 Badge" src="https://img.shields.io/badge/-ArcGIS Survey123-759c33?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Dashboards Badge" src="https://img.shields.io/badge/-ArcGIS Dashboards-e89204?style=flat&logo=ArcGIS"></a> 
-  <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Arcade Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> 
-  <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Autodesk Civil 3D Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
-  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> 
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
@@ -120,13 +110,25 @@ ___
   <a href="" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="GeoJSON Badge" src="https://img.shields.io/badge/-GeoJSON-000000?style=flat&logo=JSON"></a>
+  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Git Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a> 
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Microsoft Office Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=None"></a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a> 
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Git Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
+
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Online Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="ArcGIS Instant Apps Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> 
+  <a href="https://livingatlas.arcgis.com/en/home/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Living Atlas Badge" src="https://img.shields.io/badge/-ArcGIS Living Atlas-43A047?style=flat&logo=ArcGIS"></a> 
+  <a href="https://storymaps.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Storymaps Badge" src="https://img.shields.io/badge/-ArcGIS StoryMaps-64c4b7?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Network Analyst Badge" src="https://img.shields.io/badge/-ArcGIS Network Analyst-0e9b6b?style=flat&logo=ArcGIS"></a> 
+  <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Survey123 Badge" src="https://img.shields.io/badge/-ArcGIS Survey123-759c33?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Dashboards Badge" src="https://img.shields.io/badge/-ArcGIS Dashboards-e89204?style=flat&logo=ArcGIS"></a> 
+  <a href="https://developers.arcgis.com/arcade/" target="_blank" rel="noreferrer"> <img alt="ArcGIS Arcade Badge" src="https://img.shields.io/badge/-ArcGIS Arcade-c02505?style=flat&logo=ArcGIS"></a> 
+  <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Autodesk Civil 3D Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
+  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a> 
   <a href="https://geospatial.trimble.com/en/products/hardware/total-stations" target="_blank" rel="noreferrer"> <img alt="Trimble S/VX Total Stations Badge" src="https://img.shields.io/badge/-Trimble S/VX Total Stations-000000?style=flat&logo="></a> 
   <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Leica P50 LiDAR Scanner Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
 
