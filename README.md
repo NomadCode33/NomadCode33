@@ -27,6 +27,23 @@ ___
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">DragonDex</h3>
+        <br />
+        <center>
+        <a target="_blank" href="https://github.com/NomadCode33/SeaRise3D-Miami">
+            <img src="./" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+        </a>
+        </center>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank" rel="noreferrer">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
+  </a>  
+        </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - A.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">SeaRise3D</h3>
         <br />
         <center>
@@ -42,21 +59,6 @@ ___
   </a>  
         </p>
         <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS 3D Analyst extension</strong> - A dynamic 3D map showing buildings in Miami at risk from sea level rise by 2030, 2050, and 2090, using spatial analysis to guide infrastructure planning and climate adaptation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ThermaRisk</h3>
-        <br />
-      <a target="_blank" href="https://github.com/NomadCode33/ThermaRisk">
-            <img src="./GIFs/Athens Heat Risk Index_EmekaEmeche (3).gif" width="100%" height="269" alt="Athens Heat Risk GIF"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/NomadCode33/ThermaRisk" target="_blank" rel="noreferrer">
-    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
-  </a>
-      </p>
-        <p><strong>ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas, ArcGIS Spatial Analyst extension</strong> - An interactive map showing heat intensity across Athens, Greece, to help planners implement cooling strategies like tree planting and boost resilience to extreme heat.</p>
     </td>
   </tr>
   
