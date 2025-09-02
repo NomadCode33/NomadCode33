@@ -51,7 +51,6 @@ ___
         </center>
         <br />
         <p align="center">
-          
   <a href="https://github.com/NomadCode33/SeaRise3D-Miami" target="_blank" rel="noreferrer">
     <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
   </a>  
