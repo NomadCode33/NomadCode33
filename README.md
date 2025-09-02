@@ -102,12 +102,12 @@ ___
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node-000000?style=flat&logo=Node.js"></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express Badge" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express"></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express Badge" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a>  
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=rstudioide"></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Tableau Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
