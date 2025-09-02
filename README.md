@@ -38,8 +38,7 @@ ___
         <p align="center">
           
   <a href="" target="_blank" rel="noreferrer">
-    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub">
-    <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress">
+    <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress">
   </a>  
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds..</p>
