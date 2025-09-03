@@ -6,7 +6,7 @@
   <a href="https://wellfound.com/u/chukwuemeka-emeche" target="_blank" rel="noreferrer"> <img alt="Wellfound Badge" src="https://img.shields.io/badge/-Wellfound-000000?style=flat&logo=WordPress"></a>
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
   <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">
-  <a href="https://drive.google.com/file/d/11no8IVXjJ6mZ3dkiHYaZB5VnOab32nns/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
+  <a href="https://docs.google.com/document/d/1GkB9CUUOrMX1tQWSRuRNTLjY0jkw7uHH/edit?usp=sharing&ouid=114192167682759385051&rtpof=true&sd=true" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
 ___
