@@ -39,7 +39,7 @@ ___
         <br />
         <p align="center">
   <a href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
-  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
+  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
     </td>
@@ -73,7 +73,7 @@ ___
         <br />
         <p align="center">
   <a href="https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
-  <a href="https://levelground-layout-nomadcode33.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Level Ground Website Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
+  <a href="https://levelground-layout-nomadcode33.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Level Ground Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
         <p><strong>HTML, CSS</strong> - A nonprofit website layout for Level Ground, built with HTML/CSS from a professional mockup. Highlights include a clear message, impact sections, and a contact area—designed to communicate mission and drive user engagement.</p>
     </td>
