@@ -104,6 +104,7 @@ ___
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express Badge" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express"></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img alt="Heroku Badge" src="https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku"></a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img alt="Render Badge" src="https://img.shields.io/badge/-Render-000000?style=flat&logo=Render"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
