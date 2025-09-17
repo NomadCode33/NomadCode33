@@ -108,6 +108,7 @@ ___
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img alt="EJS Badge" src="https://img.shields.io/badge/-EJS-000000?style=flat&logo=EJS"></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a>  
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
