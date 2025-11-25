@@ -32,13 +32,13 @@ ___
       <h3 align="center">DragonDex</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex">
+        <a target="_blank" href="https://github.com/NomadCode33/DragonDex">
             <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://github.com/NomadCode33/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
   <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
