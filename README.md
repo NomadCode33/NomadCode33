@@ -66,13 +66,13 @@ ___
       <h3 align="center">Level Ground</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground">
+        <a target="_blank" href="https://github.com/NomadCode33/Level-Ground/tree/main">
             <img src="./assets/img/levelgroundwebsite.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
         </a>
         </center>
         <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://github.com/NomadCode33/Level-Ground/tree/main" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
   <a href="https://levelground-layout-nomadcode33.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Level Ground Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
         <p><strong>HTML, CSS</strong> - A nonprofit website layout for Level Ground, built with HTML/CSS from a professional mockup. Highlights include a clear message, impact sections, and a contact area—designed to communicate mission and drive user engagement.</p>
