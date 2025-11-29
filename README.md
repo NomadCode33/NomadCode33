@@ -5,7 +5,6 @@
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a>
   <a href="https://wellfound.com/u/chukwuemeka-emeche" target="_blank" rel="noreferrer"> <img alt="Wellfound Badge" src="https://img.shields.io/badge/-Wellfound-000000?style=flat&logo=WordPress"></a>
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a> 
-  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">
   <a href="https://drive.google.com/file/d/11IXH5eXc8s7hBM1zgUBvh820z-QinyTa/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
 
@@ -150,6 +149,5 @@ ___
   <a href="https://x.com/NomadCode33" target="_blank" rel="noreferrer"> <img alt="X Badge" src="https://img.shields.io/badge/-X-000000?style=flat&logo=X"></a>
   <a href="https://wellfound.com/u/chukwuemeka-emeche" target="_blank" rel="noreferrer"> <img alt="Wellfound Badge" src="https://img.shields.io/badge/-Wellfound-000000?style=flat&logo=WordPress"></a>
   <a href="mailto:chukwe22@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email Badge" src="https://img.shields.io/badge/-chukwe22@gmail.com-000000?style=flat&logo=Gmail"></a>
-  <img alt="Phone Number Badge" src="https://img.shields.io/badge/-206.476.7818 -000000?style=flat&logo=None">
   <a href="https://drive.google.com/file/d/11IXH5eXc8s7hBM1zgUBvh820z-QinyTa/view?usp=sharing" target="_blank" rel="noreferrer"> <img alt="Resume Badge" src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=ReadMe"></a>
 </p>
