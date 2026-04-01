@@ -28,19 +28,19 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DragonDex</h3>
+      <h3 align="center">SonicVerse</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/DragonDex">
-            <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+        <a target="_blank" href="https://github.com/NomadCode33/SonicVerse">
+            <img src="./assets/img/SonicVerse-home-page.png" width="100%" height="269" alt="SonicVerse Image"/>
         </a>
         </center>
         <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
-  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
+  <a href="https://github.com/NomadCode33/SonicVerse" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://sonicverse-y2s6.onrender.com/verse-hub" target="_blank" rel="noreferrer"> <img alt="SonicVerse Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - A fully responsive, full-stack encyclopedia built from scratch featuring a custom RESTful API, MVC backend architecture, and dynamic search across characters and worlds—demonstrating end-to-end system design and scalable retrieval patterns.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SeaRise3D</h3>
@@ -62,19 +62,19 @@ ___
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Level Ground</h3>
+      <h3 align="center">DragonDex</h3>
         <br />
         <center>
-        <a target="_blank" href="https://github.com/NomadCode33/Level-Ground/tree/main">
-            <img src="./assets/img/levelgroundwebsite.png" width="100%" height="269" alt="Miami Beach Sea Level GIF"/>
+        <a target="_blank" href="https://github.com/NomadCode33/DragonDex">
+            <img src="./assets/img/DragonDex.png" width="100%" height="269" alt="DragonDex Image"/>
         </a>
         </center>
         <br />
         <p align="center">
-  <a href="https://github.com/NomadCode33/Level-Ground/tree/main" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
-  <a href="https://levelground-layout-nomadcode33.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Level Ground Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
+  <a href="https://github.com/NomadCode33/DragonDex" target="_blank" rel="noreferrer"> <img alt="Repository Badge" src="https://img.shields.io/badge/-REPO-000000?style=flat&logo=GitHub"></a>
+  <a href="https://dragondex.netlify.app/" target="_blank" rel="noreferrer"> <img alt="DragonDex Website Badge" src="https://img.shields.io/badge/-WEBSITE-000000?style=flat&logo=WordPress"></a>
         </p>
-        <p><strong>HTML, CSS</strong> - A nonprofit website layout for Level Ground, built with HTML/CSS from a professional mockup. Highlights include a clear message, impact sections, and a contact area—designed to communicate mission and drive user engagement.</p>
+        <p><strong>HTML, CSS</strong> - DragonDex is a responsive web app and interactive encyclopedia for the Dragon Ball universe, using a third-party API for dynamic search across characters, transformations, and worlds.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">OsoShift</h3>
