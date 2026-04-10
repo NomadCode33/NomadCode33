@@ -106,15 +106,20 @@ ___
   <a href="https://render.com/" target="_blank" rel="noreferrer"> <img alt="Render Badge" src="https://img.shields.io/badge/-Render-000000?style=flat&logo=Render"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img alt="Leaflet Badge" src="https://img.shields.io/badge/-Leaflet-000000?style=flat&logo=Leaflet"></a>
+  <a href="https://www.ibm.com/think/topics/structured-query-language" target="_blank" rel="noreferrer"> <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=None"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
+  <a href="https://postgis.net/" target="_blank" rel="noreferrer"> <img alt="PostGIS Badge" src="https://img.shields.io/badge/-PostGIS-000000?style=flat&logo=None"></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img alt="EJS Badge" src="https://img.shields.io/badge/-EJS-000000?style=flat&logo=EJS"></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img alt="NumPy Badge" src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy"></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas Badge" src="https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas"></a>
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img alt="GeoPandas Badge" src="https://img.shields.io/badge/-GeoPandas-000000?style=flat&logo=GeoPandas"></a>
 <a href="https://earthpy.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img alt="EarthPy Badge" src="https://img.shields.io/badge/-EarthPy-000000?style=flat&logo=None"></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img alt="Matplotlib Badge" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=None"></a>
+  <a href="https://python-visualization.github.io/folium/latest/" target="_blank" rel="noreferrer"> <img alt="Folium Badge" src="https://img.shields.io/badge/-Folium-000000?style=flat&logo=Folium"></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img alt="AWS Badge" src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=None"></a>
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=rstudioide"></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Tableau Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
@@ -124,6 +129,7 @@ ___
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=None"></a>
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img alt="Microsoft Azure Badge" src="https://img.shields.io/badge/-Microsoft Azure-000000?style=flat&logo=None"></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img alt="Google Colab Badge" src="https://img.shields.io/badge/-Google Colab-000000?style=flat&logo=GoogleColab"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a>
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Online Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
