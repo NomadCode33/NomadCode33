@@ -75,13 +75,21 @@ GIS Portfolio Links
 
 **EcoPulse Report:** [EcoPulse Climate Analysis Report](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Analysis%20Report)
 
-**GIS Data Types, Storage, and Conversion:** [GIS Data Types, Storage, and Conversion](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/gis-data-types-storage-conversion)
+**GIS Data Types, Storage, and Conversion:** [GIS Conversion](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/gis-data-types-storage-conversion)
 
-**Vector Data Scripting Analysis:** [Vector Data Scripting Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/vector-data-scripting-analysis)
+**Vector Data Scripting Analysis:** [Scripting Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/vector-data-scripting-analysis)
 
 **CloudCanvas:** [Cloud-Based Spatial Database](https://github.com/NomadCode33/NomadGeo/tree/main/CloudCanvas)
 
 **ElevationDelta:** [Raster Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/ElevationDelta)
+
+**GeoQuery ABQ:** [Crime Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/GeoQuery-ABQ)
+
+**GeoSignal:** [Geo-Tagged Tweet Collection](https://github.com/NomadCode33/NomadGeo/tree/main/GeoSignal)
+
+**StratusGeo:** [Serverless Geospatial Analytics](https://github.com/NomadCode33/NomadGeo/tree/main/StratusGeo)
+
+**TileTrace PNW:** [Web Map Design & Tile Generation](https://github.com/NomadCode33/NomadGeo/tree/main/TileTracePNW)
 
 
 **Crime Map:** [Crime Database Mapping]()
