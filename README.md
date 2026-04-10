@@ -105,18 +105,24 @@ ___
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img alt="Heroku Badge" src="https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku"></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"> <img alt="Render Badge" src="https://img.shields.io/badge/-Render-000000?style=flat&logo=Render"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB"></a>
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img alt="Leaflet Badge" src="https://img.shields.io/badge/-Leaflet-000000?style=flat&logo=Leaflet"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img alt="EJS Badge" src="https://img.shields.io/badge/-EJS-000000?style=flat&logo=EJS"></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python Badge" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img alt="NumPy Badge" src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy"></a>
+<a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img alt="GeoPandas Badge" src="https://img.shields.io/badge/-GeoPandas-000000?style=flat&logo=GeoPandas"></a>
+<a href="https://earthpy.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img alt="EarthPy Badge" src="https://img.shields.io/badge/-EarthPy-000000?style=flat&logo=None"></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img alt="Matplotlib Badge" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=None"></a>
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=rstudioide"></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img alt="Tableau Badge" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"></a> 
   <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Git Badge" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GitHub"></a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a>  
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img alt="Microsoft Office Badge" src="https://img.shields.io/badge/-Microsoft Office 365-000000?style=flat&logo=Microsoft"></a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=None"></a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=None"></a>
+  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img alt="Microsoft Azure Badge" src="https://img.shields.io/badge/-Microsoft Azure-000000?style=flat&logo=None"></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a>
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
@@ -132,6 +138,8 @@ ___
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a>
   <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img alt="Mapbox Badge" src="https://img.shields.io/badge/-Mapbox-000000?style=flat&logo=Mapbox"></a>
   <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="GeoJSON Badge" src="https://img.shields.io/badge/-GeoJSON-000000?style=flat&logo=JSON"></a>
+  <a href="geojson.io" target="_blank" rel="noreferrer"> <img alt="geojson.io Badge" src="https://img.shields.io/badge/-geojson.io-000000?style=flat&logo=JSON"></a>
+  <a href="https://earth.google.com/" target="_blank" rel="noreferrer"> <img alt="Google Earth Badge" src="https://img.shields.io/badge/-Google Earth-000000?style=flat&logo=GoogleEarth"></a>
   <a href="https://geospatial.trimble.com/en/products/hardware/total-stations" target="_blank" rel="noreferrer"> <img alt="Trimble S/VX Total Stations Badge" src="https://img.shields.io/badge/-Trimble S/VX Total Stations-000000?style=flat&logo=Trimble"></a> 
   <a href="https://leica-geosystems.com/en-us/products/laser-scanners/scanners/leica-scanstation-p50" target="_blank" rel="noreferrer"> <img alt="Leica P50 LiDAR Scanner Badge" src="https://img.shields.io/badge/-Leica P50 LiDAR Scanner-000000?style=flat&logo=Leica"></a></p>
 
