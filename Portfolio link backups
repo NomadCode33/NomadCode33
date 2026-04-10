@@ -1,6 +1,6 @@
 GIS Portfolio Links
 
-Repositories
+# Repositories:
 **Profile:** [NomadCode33](https://github.com/NomadCode33)
 
 **Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
@@ -15,7 +15,9 @@ Repositories
 
 **EcoPulse Repository:** [EcoPulse](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse)
 
-Climate Action Links
+**MeridianDrift-Atlas:** [MeridianDrift-Atlas](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas)
+
+# Climate Action Links:
 **SeaRise3D:** [SeaRise3D: Miami Beach](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/SeaRise3D)
 
 **ThermaRisk:** [ThermaRisk: Mapping Urban Heat Risk in Athens](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ThermaRisk)
@@ -27,7 +29,7 @@ Climate Action Links
 **ImpactAtlas:** [ImpactAtlas: Climate Change Through Spatial Insight](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ImpactAtlas)
 
 
-Cartography Links
+# Cartography Links:
 **OsoShift:** [OsoShift: Oso Landslide Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
 
 **StormChronicles:** [StormChronicles: Hurricanes since 1851](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/StormChronicles) 
@@ -43,7 +45,7 @@ Cartography Links
 **SpilView:** [SpilView: Seeing the World Through Oceans](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/SpilView)
 
 
-Furtado & Associates links
+# Furtado & Associates links:
 **West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
 **Sumner Jurisdiction Boundary:** [Sumner Jurisdiction Boundary](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Sumner%20Jurisdiction%20Boundary)
@@ -52,7 +54,13 @@ Furtado & Associates links
 
 **North Bothell Bus Base:** [North Bothell Bus Base](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/North%20Bothell%20Bus%20Base)
 
-UW Projects
+
+# Other Projects:
+**City of Destiny:** [Tacoma Tourism Attractions Mapping](https://github.com/NomadCode33/NomadGeo/tree/main/CityofDestiny-Maps)
+
+
+
+# UW Projects:
 **BayouWaters:** [BayouWaters: A New Orleans Risk Model](https://github.com/NomadCode33/NomadGeo/tree/main/BayouWaters)
 
 **UrbanDine Locator:** [ArcGIS Fast Food Restaurant Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
@@ -67,11 +75,19 @@ UW Projects
 
 **EcoPulse Report:** [EcoPulse Climate Analysis Report](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Analysis%20Report)
 
+**GIS Data Types, Storage, and Conversion:** [GIS Data Types, Storage, and Conversion](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/gis-data-types-storage-conversion)
+
+**Vector Data Scripting Analysis:** [Vector Data Scripting Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/MeridianDrift-Atlas/vector-data-scripting-analysis)
+
+**CloudCanvas:** [Cloud-Based Spatial Database](https://github.com/NomadCode33/NomadGeo/tree/main/CloudCanvas)
+
+**ElevationDelta:** [Raster Analysis](https://github.com/NomadCode33/NomadGeo/tree/main/ElevationDelta)
+
+
 **Crime Map:** [Crime Database Mapping]()
 
 **GIS Maps:** [GIS Maps]()
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey]()
 
 
 🌱 I’m currently learning **APIs.**
