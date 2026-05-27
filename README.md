@@ -111,6 +111,7 @@ ___
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img alt="Leaflet Badge" src="https://img.shields.io/badge/-Leaflet-000000?style=flat&logo=Leaflet"></a>
   <a href="https://www.ibm.com/think/topics/structured-query-language" target="_blank" rel="noreferrer"> <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=None"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
+  <a href="https://postgis.net/" target="_blank" rel="noreferrer"> <img alt="PostGIS Badge" src="https://img.shields.io/badge/-PostGIS-000000?style=flat&logo=None"></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img alt="Supabase Badge" src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=Supabase"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
@@ -136,6 +137,7 @@ ___
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Badge" src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img alt="Google Colab Badge" src="https://img.shields.io/badge/-Google Colab-000000?style=flat&logo=GoogleColab"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma"></a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img alt="Trello Badge" src="https://img.shields.io/badge/-Trello-000000?style=flat&logo=Trello"></a>
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Pro Badge" src="https://img.shields.io/badge/-ArcGIS Pro-000000?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img alt="ArcGIS Online Badge" src="https://img.shields.io/badge/-ArcGIS Online-4d54b9?style=flat&logo=ArcGIS"></a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-instant-apps/trial" target="_blank" rel="noreferrer"> <img alt="ArcGIS Instant Apps Badge" src="https://img.shields.io/badge/-ArcGIS Instant Apps-8FA17A?style=flat&logo=ArcGIS"></a> 
