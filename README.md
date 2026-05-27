@@ -99,7 +99,9 @@ ___
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img alt="HTML5 Badge" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS3 Badge" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node-000000?style=flat&logo=Node.js"></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js"></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img alt="Next.js Badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js"></a>
+  <a href="https://turfjs.org/" target="_blank" rel="noreferrer"> <img alt="Turf.js Badge" src="https://img.shields.io/badge/-Turf.js-000000?style=flat&logo=None"></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img alt="React Badge" src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express Badge" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express"></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img alt="Heroku Badge" src="https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku"></a>
@@ -108,7 +110,8 @@ ___
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img alt="Leaflet Badge" src="https://img.shields.io/badge/-Leaflet-000000?style=flat&logo=Leaflet"></a>
   <a href="https://www.ibm.com/think/topics/structured-query-language" target="_blank" rel="noreferrer"> <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=None"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"></a>
-  <a href="https://postgis.net/" target="_blank" rel="noreferrer"> <img alt="PostGIS Badge" src="https://img.shields.io/badge/-PostGIS-000000?style=flat&logo=None"></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img alt="Supabase Badge" src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=Supabase"></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub"></a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img alt="JSON Badge" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON"></a>
   <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img alt="EJS Badge" src="https://img.shields.io/badge/-EJS-000000?style=flat&logo=EJS"></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img alt="Java Badge" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"></a>
@@ -119,6 +122,7 @@ ___
 <a href="https://earthpy.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img alt="EarthPy Badge" src="https://img.shields.io/badge/-EarthPy-000000?style=flat&logo=None"></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img alt="Matplotlib Badge" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=None"></a>
   <a href="https://python-visualization.github.io/folium/latest/" target="_blank" rel="noreferrer"> <img alt="Folium Badge" src="https://img.shields.io/badge/-Folium-000000?style=flat&logo=Folium"></a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img alt="TanStack Query Badge" src="https://img.shields.io/badge/-TanStack Query-000000?style=flat&logo=TanStack"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img alt="AWS Badge" src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=None"></a>
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img alt="R Badge" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R"></a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img alt="RStudio Badge" src="https://img.shields.io/badge/-RStudio-000000?style=flat&logo=rstudioide"></a>
