@@ -147,6 +147,7 @@ ___
   <a href="https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img alt="Autodesk Civil 3D Badge" src="https://img.shields.io/badge/-Autodesk Civil 3D-000000?style=flat&logo=Autodesk"></a> 
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img alt="QGIS Badge" src="https://img.shields.io/badge/-QGIS-000000?style=flat&logo=Qgis"></a>
   <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img alt="Mapbox Badge" src="https://img.shields.io/badge/-Mapbox-000000?style=flat&logo=Mapbox"></a>
+  <a href="https://docs.mapbox.com/mapbox-gl-js/guides/" target="_blank" rel="noreferrer"> <img alt="Mapbox GL JS Badge" src="https://img.shields.io/badge/-Mapbox GL JS-000000?style=flat&logo=Mapbox"></a>
   <a href="https://geojson.org/" target="_blank" rel="noreferrer"> <img alt="GeoJSON Badge" src="https://img.shields.io/badge/-GeoJSON-000000?style=flat&logo=JSON"></a>
   <a href="geojson.io" target="_blank" rel="noreferrer"> <img alt="geojson.io Badge" src="https://img.shields.io/badge/-geojson.io-000000?style=flat&logo=JSON"></a>
   <a href="https://earth.google.com/" target="_blank" rel="noreferrer"> <img alt="Google Earth Badge" src="https://img.shields.io/badge/-Google Earth-000000?style=flat&logo=GoogleEarth"></a>
