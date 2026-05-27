@@ -97,7 +97,8 @@ ___
 <h2 align="center">Skills/Technologies</h2>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img alt="HTML5 Badge" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS3 Badge" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS3 Badge" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS"></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind CSS-000000?style=flat&logo=Tailwind CSS"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js"></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img alt="Next.js Badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js"></a>
