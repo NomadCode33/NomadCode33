@@ -21,7 +21,7 @@ ___
 - **Geospatial Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 - **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
 
-⚡ Fun facts: 
+⚡ Fun facts about me: 
 - **I have endless drive**
 - **I love learning**
 - **I have a stubborn attitude to never quit**
