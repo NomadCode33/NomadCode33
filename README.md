@@ -21,7 +21,12 @@ ___
 - **Geospatial Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 - **Software Engineering Portfolio:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
 
-⚡ Fun facts: **I have endless drive, I love learning, I have a stubborn attitude to never quit, I'm a gamer aficionado, and I love watching anime.**
+⚡ Fun facts: 
+- **I have endless drive**
+- **I love learning**
+- **I have a stubborn attitude to never quit**
+- **I'm a gamer aficionado**
+- **I love watching anime**
 ___
 
 <h2 align="center">Projects</h2>
