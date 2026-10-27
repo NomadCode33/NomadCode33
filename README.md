@@ -10,10 +10,10 @@
 
 ___
 <p align="left"> 
-  <strong>A creative and detail-oriented Software Engineer and Geospatial Data Scientist with a deep passion for spatial intelligence, machine learning, and AI. I bring proven experience across the full technology stack—from front-end and back-end development to web application design, data wrangling, statistical analysis, and impactful data visualization. Known for strong logical reasoning, problem-solving, and a knack for thinking outside the box, I consistently seek innovative ways to improve systems and deliver meaningful results. I’m excited to contribute to a forward-thinking tech company with a global reach, where I can help drive data-driven innovation and create solutions that make a real-world impact.</strong>
+  <strong>I’m a full-stack engineer with a background in technology and geospatial analysis. I’ve always been fascinated by how technology helps us understand the world around us, from exploring the connections between data, culture, history, and places to building software that brings information to life. My experience in GIS and web development has taught me how to work with complex data, pay attention to detail, and turn information into something practical and accessible. I work with technologies such as JavaScript, HTML, CSS, and modern web development tools to build applications that make information easier to explore and use. I’m passionate about building thoughtful, user-focused tools that connect people with information and help communities and organizations make more informed, data-driven decisions. I’m continually growing as an engineer and looking for opportunities to learn, collaborate, and build technology that makes a meaningful difference.</strong>
 </p>
 
-🔭 I’m currently working on **D&D Compendium** and **SonicVerse**.
+🔭 I’m currently working on **Roam**.
 
 👨‍💻 All of my projects are available at:
 - **Geospatial Portfolio:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
