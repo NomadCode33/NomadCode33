@@ -1,4 +1,4 @@
-![Header](./github-header-image-sg.png)
+![Header](./github-banner.png)
 <p align="center"> 
   <a href="https://chukwuemekaemeche.netlify.app/" target="_blank" rel="noreferrer"> <img alt="Portfolio Badge" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=WordPress"></a>
   <a href="https://www.linkedin.com/in/emekaemeche/" target="_blank" rel="noreferrer"> <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn"></a> 
